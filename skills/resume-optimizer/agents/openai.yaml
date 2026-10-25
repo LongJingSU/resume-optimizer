@@ -1,0 +1,4 @@
+interface:
+  display_name: "简历优化"
+  short_description: "基于真实经历优化简历，分清公司与团队贡献，兼顾一页排版、阅读留白和作品入口。"
+  default_prompt: "请用 $resume-optimizer 优化我的简历，保留真实贡献，并按目标岗位和页数要求调整内容与排版。"

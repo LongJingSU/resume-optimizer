@@ -1,3 +1,11 @@
+# 简历优化增强版
+
+这是 [Tw93/Kami](https://github.com/tw93/Kami) 的 fork，新增 [resume-optimizer 技能](skills/resume-optimizer/SKILL.md)。保留上游版权与 MIT LICENSE。安装方式、优化规则与方法参考见 [本分支说明](docs/resume-optimization.md)。
+
+以下是保留的 Kami 上游中文介绍，官网和发布信息仍属于原项目。
+
+---
+
 <div align="center">
   <img src="skills/kami/assets/images/logo.svg" width="120" />
   <h1>Kami</h1>

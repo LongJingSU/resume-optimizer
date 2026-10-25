@@ -1,3 +1,22 @@
+# 简历优化 · Resume Optimizer
+
+基于 **[Tw93/Kami](https://github.com/tw93/Kami) 的 fork**，增加经过实际迭代的中文简历优化技能。由 [LongJingSU](https://github.com/LongJingSU) 维护增强部分，保留上游 MIT 版权与出处。
+
+写清公司与团队贡献，保持真实成果，兼顾一页可读性、项目留白和可点击作品入口。
+
+- [安装、使用与来源说明](docs/resume-optimization.md)
+- [简历优化技能](skills/resume-optimizer/SKILL.md)
+- [事实与内容规则](skills/resume-optimizer/references/content-rules.md)
+- [排版与验收规则](skills/resume-optimizer/references/layout-and-delivery.md)
+
+```bash
+npx skills add LongJingSU/resume-optimizer --skill resume-optimizer
+```
+
+需要排版工具时，可另安装本仓库的 `kami` 技能。新增规则不包含个人简历或联系方式。以下保留 Kami 上游介绍；其中官网、版本和原始安装命令指向上游，不代表本分支的发布状态。
+
+---
+
 <div align="center">
   <img src="skills/kami/assets/images/logo.svg" width="120" />
   <h1>Kami</h1>

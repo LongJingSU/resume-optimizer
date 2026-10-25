@@ -1,3 +1,12 @@
+# Resume Optimizer fork scope
+
+This fork adds `skills/resume-optimizer/` and `docs/resume-optimization.md`.
+The new skill is installed separately; do not claim it is included in upstream
+Kami's plugin mirrors or release archive. Keep its references inside that skill.
+The accepted one-page workflow adjusts document copies and does not change the
+upstream resume template's two-page contract. The upstream guide below continues
+to govern changes to Kami's existing engine, templates, mirrors, and website.
+
 # Kami Agent Guide
 
 ## Project
